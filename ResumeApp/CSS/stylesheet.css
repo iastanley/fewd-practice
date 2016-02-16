@@ -1,0 +1,49 @@
+#body {
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-width: 5px;
+	border-bottom-width: 5px;
+	margin: 20px;
+
+}
+
+#main {
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	max-width: 60%;
+	margin-left: 40px;
+}
+
+header {
+	text-align: center;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	font-family: Arial;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+footer {
+	text-align: center;
+	padding: 10px;
+	font-family: Arial;
+}
+
+#specialLink {
+	text-decoration: none;
+}
+
+#headshot {
+	float: right;
+	border: 1px solid black;
+	height: 200px;
+	width: 200px;
+}
+
+h2 {
+	font-family: Arial;
+}
+
+li img {
+	border: 1px solid black;
+}
